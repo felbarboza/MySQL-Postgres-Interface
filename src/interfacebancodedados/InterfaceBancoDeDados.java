@@ -16,6 +16,9 @@ public class InterfaceBancoDeDados {
      */
     public static void main(String[] args) {
         Intercade i = new Intercade();
+        i.setLocationByPlatform(true);
+        i.setVisible(true);
+    
     }
     
 }

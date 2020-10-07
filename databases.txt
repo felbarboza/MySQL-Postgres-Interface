@@ -1,1 +1,2 @@
 jdbc:postgresql://localhost:5432/?,postgres,docker
+jdbc:mysql://localhost/,root,Garfield.123
